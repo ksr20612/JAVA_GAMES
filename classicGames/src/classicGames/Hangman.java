@@ -13,7 +13,7 @@ public class Hangman {
 	
 	public Hangman() throws IOException{
 		
-		BufferedReader br = new BufferedReader(new FileReader("C:\\workspace\\classicGames\\src\\ENGwords.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\ksr02\\git\\classicGames\\classicGames\\src\\ENGwords.txt"));
 		
 		Random rand = new Random();
 		int n = rand.nextInt(172819);

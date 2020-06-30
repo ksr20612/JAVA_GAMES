@@ -1,4 +1,4 @@
-package classicGames;
+package tests;
 
 import java.applet.Applet;
 import java.text.*;
